@@ -20,8 +20,8 @@ require (
 	github.com/sparrc/go-ping v0.0.0-20181106165434-ef3ab45e41b0
 	github.com/stretchr/testify v1.4.0
 	go.etcd.io/bbolt v1.3.3
-	golang.org/x/crypto v0.0.0-20191001170739-f9e2070545dc
-	golang.org/x/net v0.0.0-20191002035440-2ec189313ef0
-	golang.org/x/sys v0.0.0-20191002091554-b397fe3ad8ed
+	golang.org/x/crypto v0.14.0
+	golang.org/x/net v0.17.0
+	golang.org/x/sys v0.13.0
 	gopkg.in/yaml.v2 v2.2.3
 )
